@@ -1,0 +1,1 @@
+put your linear problem in the "input.txt" file
